@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "輝きのエチュード -prototype-",
+  "base_artist": "こだまさおり",
+  "createdAt": "2025-12-17T18:49:59.232296Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "輝きのエチュード -prototype-",
+      "artist": "こだまさおり",
+      "has_synced": false,
+      "path": "select/pl_01_輝きのエチュード_-prototype-_こだまさおり.txt"
+    }
+  ]
+}
